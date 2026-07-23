@@ -228,45 +228,7 @@ If soil moisture falls below the safe threshold:
 
 ---
 
-#  Repository Structure
-
-```
-Smart-Earthing-Monitoring-System
-│
-├── firmware
-│   └── Smart_Earthing_ESP32.ino
-│
-├── hardware
-│   ├── Circuit_Diagram.png
-│   ├── Prototype.jpg
-│   └── Components_List.pdf
-│
-├── images
-│   ├── Dashboard.png
-│   ├── Dashboard_Fault.png
-│   ├── Prototype.jpg
-│   ├── Hardware.jpg
-│   └── System_Diagram.png
-│
-├── videos
-│   └── Demo.mp4
-│
-├── docs
-│   └── Project_Report.pdf
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 #  Installation
-
-Clone the repository.
-
-```bash
-git clone https://github.com/yourusername/Smart-Earthing-Monitoring-System.git
-```
 
 Open the project using Arduino IDE.
 
